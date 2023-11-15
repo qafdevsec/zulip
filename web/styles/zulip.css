@@ -326,6 +326,7 @@ body {
     --color-message-reaction-button-border-hover: var(
         --color-message-reaction-border
     );
+    --message-reaction-font-weight: 600;
 
     /* Message feed loading indicator colors */
     --color-zulip-logo: hsl(0deg 0% 0% / 34%);
@@ -592,6 +593,7 @@ body {
     --color-message-reaction-button-border-hover: var(
         --color-message-reaction-border
     );
+    --message-reaction-font-weight: 550;
 
     /* Message feed loading indicator colors */
     --color-zulip-logo: hsl(0deg 0% 100% / 50%);

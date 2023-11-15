@@ -22,7 +22,7 @@
             color: var(--color-message-reaction-text-reacted);
             background-color: var(--color-message-reaction-background-reacted);
             border-color: var(--color-message-reaction-border-reacted);
-            font-weight: 700;
+            font-weight: var(--message-reaction-font-weight);
             box-shadow: none;
         }
 
