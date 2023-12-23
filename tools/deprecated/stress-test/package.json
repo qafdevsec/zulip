@@ -11,7 +11,7 @@
   "license": "",
   "dependencies": {
     "request": "~2.21.0",
-    "coffee-script": "~1.6.3",
+    "coffee-script": "~1.12.7",
     "optimist": "~0.5.2"
   }
 }
