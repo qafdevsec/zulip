@@ -5,7 +5,7 @@ git+https://github.com/zulip/truncated-django-1.8.15.git@cbf4fa3aef1b17f37d75a70
 GitPython==0.3.2.1
 
 # Needed for rendering backend templates
-Jinja2==2.8
+Jinja2==3.1.3
 
 # Needed for markdown processing
 Markdown==2.1.1
