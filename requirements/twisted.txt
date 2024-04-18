@@ -1,4 +1,5 @@
-Twisted==16.3.0
+Twisted==23.10.0rc1
 zope.interface==4.2.0
 service-identity==16.0.0
 attrs==16.0.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
