@@ -11,3 +11,4 @@ backports.shutil_get_terminal_size==1.0.0
 
 # Install Python Social Auth
 -r py2_socialauth.txt
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
