@@ -11,3 +11,4 @@ ptyprocess==0.5.1
 simplegeneric==0.8.1
 traitlets==4.2.2
 wcwidth==0.1.7
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
