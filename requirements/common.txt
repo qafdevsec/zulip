@@ -1,6 +1,6 @@
 -r ipython.txt
 # Django itself; we use a slightly patched version
-git+https://github.com/zulip/truncated-django-1.8.15.git@cbf4fa3aef1b17f37d75a70e57f9b69a0f99ed5c#egg=Django==1.8.15
+Django==4.2.22
 
 GitPython==0.3.2.1
 
@@ -104,7 +104,7 @@ pytz==2016.6.1
 redis==2.10.5
 
 # Dependencies of our API
-requests==2.11.0
+requests==2.32.4
 
 requests_oauthlib==0.6.2
 rsa==3.4.2
