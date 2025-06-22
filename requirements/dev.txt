@@ -13,4 +13,4 @@ pyflakes==1.2.3
 transifex-client==0.12.2
 
 # Dependency of transifex-client
-urllib3==1.16
+urllib3==2.5.0
